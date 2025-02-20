@@ -185,5 +185,6 @@
     }
     .main-bottom{
         position: static;
+        margin-top: 1rem;
     }
 }
